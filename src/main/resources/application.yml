@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: firebase-firestore
+
+service:
+  account: serviceAccount.json
