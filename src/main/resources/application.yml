@@ -3,4 +3,4 @@ spring:
     name: firebase-firestore
 
 service:
-  account: serviceAccount.json
+  account: src/main/resources/serviceAccount.json
